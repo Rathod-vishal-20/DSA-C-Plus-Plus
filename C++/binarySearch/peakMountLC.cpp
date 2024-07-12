@@ -3,7 +3,7 @@
 using namespace std;
 
 int main(){
-    vector<int>arr{0,10,5,2};
+    vector<int>arr{2,1};
     int size= arr.size();
     int start=0;
     int end=size-1;
