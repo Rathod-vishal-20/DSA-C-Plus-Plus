@@ -1,0 +1,1 @@
+cout<<"The fact is  : "<<ans<<endl;
