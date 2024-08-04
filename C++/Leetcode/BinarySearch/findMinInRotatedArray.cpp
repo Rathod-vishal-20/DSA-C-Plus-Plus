@@ -1,7 +1,7 @@
 #include<iostream>
 #include<limits.h>
 #include<vector>
-using namespace std;
+using namespace std; 
 
 int findMin(vector<int>nums){
     int min= INT_MAX;
