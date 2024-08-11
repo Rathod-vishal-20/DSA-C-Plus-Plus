@@ -1,0 +1,1 @@
+ // int i=str.size()-1;
